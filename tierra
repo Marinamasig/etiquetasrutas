@@ -1,0 +1,10 @@
+<nav>
+    <ul>
+       
+        <li><a href="./imagenes/tierra.jpeg">TIERRA</a></li>
+     
+    </ul>
+</nav>
+
+<h1>tierra</h1>
+<img src="./imagenes/tierra.jpeg" alt="">
